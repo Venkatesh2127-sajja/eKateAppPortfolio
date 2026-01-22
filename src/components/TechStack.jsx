@@ -43,7 +43,7 @@ const stacks = [
 export default function TechStack() {
   return (
     <AnimatedSection>
-      <section className="py-32 px-6 bg-slate-900">
+      <section id="tech"className="py-32 px-6 bg-slate-900">
         <div className="max-w-7xl mx-auto">
           {/* Header */}
           <div className="text-center mb-20">

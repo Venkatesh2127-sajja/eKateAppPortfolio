@@ -3,7 +3,7 @@ import logo from "../assets/ekateapp-logo.png";
 
 export default function Footer() {
   return (
-    <footer className="relative bg-slate-950 text-slate-300 pt-24">
+    <footer id="contact"className="relative bg-slate-950 text-slate-300 pt-24">
       {/* Top gradient divider */}
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-orange-500/50 to-transparent" />
 

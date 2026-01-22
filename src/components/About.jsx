@@ -19,7 +19,7 @@ import AnimatedSection from "./AnimatedSection";
 export default function About() {
   return (
     <AnimatedSection>
-      <section className="py-28 px-6 bg-slate-950">
+      <section id="about"className="py-28 px-6 bg-slate-950">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6 text-white">
             About the Project

@@ -18,7 +18,7 @@ import AnimatedSection from "./AnimatedSection";
 export default function Contact() {
   return (
     <AnimatedSection>
-      <section className="py-32 px-6 bg-gradient-to-br from-slate-900 to-slate-950 text-center">
+      <section id="contact"className="py-32 px-6 bg-gradient-to-br from-slate-900 to-slate-950 text-center">
         <h2 className="text-4xl font-bold mb-6 text-white">
           Let’s Build Something Great
         </h2>

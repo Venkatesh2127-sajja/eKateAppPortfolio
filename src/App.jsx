@@ -8,10 +8,13 @@ import TechStack from "./components/TechStack";
 import Contact from "./components/Contact";
 import RealWorldUseCases from "./components/RealWorldUseCases";
 import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+
 
 export default function App() {
   return (
     <>
+    <Navbar />
       {/* Hero / First Impression */}
       <Hero />
 
